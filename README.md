@@ -43,6 +43,7 @@ This will build and start the required containers defined in the `docker-compose
 
 5a. Medium guide for this repo:
 
+https://medium.com/@asuarezaceves/streamlined-data-pipelines-orchestrating-dbt-transformations-with-airflow-and-cosmos-visualizing-85a200ffb6df
 
 5. Access Airflow:
 

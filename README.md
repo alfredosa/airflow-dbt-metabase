@@ -1,5 +1,9 @@
 # airflow-dbt-metabase
 
+> [!WARNING]
+> This project is now officially migrated to https://git.alfie.news/airflow-dbt-metabase
+> I will likely delete this sometime.
+
 This repository provides a Docker Compose setup for running Airflow, dbt, and Metabase together.
 
 ## Prerequisites
